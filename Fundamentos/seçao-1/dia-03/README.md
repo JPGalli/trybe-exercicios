@@ -24,7 +24,7 @@ Após criar o repositório, já com um README.md, e cloná-lo:
 
 # Criando um repositório no GitHub
 
-### App SuperNinja está anexado no .html
+##### App SuperNinja está anexado no .html
 
 ## Recapitulando
 O Git é um sistema de versionamento distribuído (DVCS), o que significa dizer que o repositório fica acessível tanto em sua máquina quanto remotamente;
