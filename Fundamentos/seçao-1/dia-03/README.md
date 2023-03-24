@@ -24,7 +24,7 @@ Após criar o repositório, já com um README.md, e cloná-lo:
 
 # Criando um repositório no GitHub
 
-##Recapitulando
+## Recapitulando
 O Git é um sistema de versionamento distribuído (DVCS), o que significa dizer que o repositório fica acessível tanto em sua máquina quanto remotamente;
 
 O GitHub é uma plataforma de hospedagem de código-fonte com controle de versão;
