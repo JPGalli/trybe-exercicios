@@ -1,3 +1,6 @@
+# Exercicio Aprendendo sobre git 
+# O que é e para que Serve
+
 É necessário seguir passos, para que se consiga realizar o usando git, como por exemplo: 
 1- git add .
 2- git commit -m "..."
