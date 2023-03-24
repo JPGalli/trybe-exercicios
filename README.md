@@ -1,1 +1,2 @@
 # trybe-exercicios
+Estou iniciando meu curso na Trybe, vou me especializar para ser um grande dev, irei aprender sobre fundamentos da programação, front-end, back-end, ciência da computação, soft skills, o que é necessário para se tornar um desenvolverdor e aprender a pensar e trabalhar como um.
