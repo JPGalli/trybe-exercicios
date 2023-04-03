@@ -30,11 +30,11 @@ for(indice = 0; indice < numbers.length; indice =+ 1){
 }
     console.log(maiorNumero);
 
-// let numeroImpar;    
+let numeroImpar;    
 
-// for(indice = 0; indice < numbers.length; indice =+ 1){
-// //     if ((numbers[indice] % 2) != 0){      
+for(indice = 0; indice < numbers.length; indice =+ 1){
+//     if ((numbers[indice] % 2) != 0){      
            
-// //     }
-// // }
-// //   console.log("Este número é impar.");   
+//     }
+// }
+//   console.log("Este número é impar.");   
